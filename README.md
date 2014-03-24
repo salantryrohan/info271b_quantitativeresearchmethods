@@ -1,0 +1,1 @@
+An introduction to statistical analysis and quantitative methods used in information and behavioral sciences. The course begins with a focus on hypothesis testing and basic statistics, then moves on to simple data manipulation using the R programming language. Learn advanced tools, including correlation, t-tests, ANOVA, and least-squares regression.
